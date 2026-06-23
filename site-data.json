@@ -2,39 +2,39 @@
   "business": {
     "name": "Advanced Auto Repair Services",
     "shortName": "Advanced Auto",
-    "tagline": "Precision Auto Repair in Dallas, TX",
+    "tagline": "Dallas's trusted auto repair experts since 1995",
     "niche": "Auto Mechanic",
     "phone": "(972) 235-5782",
     "address": "13444 Floyd Cir, Dallas, TX 75243",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri: 7:30 AM – 6:00 PM, Sat: 8:00 AM – 2:00 PM",
+    "hours": "Mon-Fri 7:30am-5:30pm, Sat 8am-12pm",
     "ctaLabel": "Schedule Appointment",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Advanced Auto Repair Services | Dallas TX Mechanic | (972) 235-5782",
-    "description": "Trusted auto mechanic in Dallas, TX. Expert diagnostics, brake repair, engine services & more. 4.9 rating. Call (972) 235-5782 for reliable car care."
+    "title": "Advanced Auto Repair Services | Trusted Auto Mechanic in Dallas, TX",
+    "description": "Expert auto repair and maintenance in Dallas, TX. From brake service to engine diagnostics, our ASE-certified mechanics deliver quality you can trust. Call (972) 235-5782."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas’s Trusted Auto Repair Experts",
-      "headline": "Expert Auto Mechanic in Dallas, TX",
-      "subheadline": "Professional diagnostics, brake repairs, and engine services with transparent pricing and exceptional customer care.",
+      "eyebrow": "Family-Owned & Operated Since 1995",
+      "headline": "Expert Auto Repair in Dallas, TX",
+      "subheadline": "From routine maintenance to complex diagnostics, we keep your car running smoothly with honest service and fair prices.",
       "primaryCta": "Schedule Appointment",
       "secondaryCta": "Call (972) 235-5782"
     },
     "stats": [
       {
-        "value": "4.9",
-        "label": "Average Rating"
-      },
-      {
-        "value": "25+",
-        "label": "Years Experience"
+        "value": "28+",
+        "label": "Years of Experience"
       },
       {
         "value": "5,000+",
         "label": "Vehicles Serviced"
+      },
+      {
+        "value": "4.9",
+        "label": "Average Rating"
       },
       {
         "value": "100%",
@@ -43,276 +43,272 @@
     ],
     "featureSections": [
       {
-        "eyebrow": "Advanced Diagnostics",
+        "eyebrow": "Comprehensive Diagnostics",
         "title": "State-of-the-Art Diagnostic Technology",
-        "body": "We use the latest diagnostic tools to quickly and accurately identify issues with your vehicle, saving you time and money.",
+        "body": "We use advanced diagnostic equipment to pinpoint issues quickly and accurately, saving you time and money. No guesswork, just precise repairs.",
         "bullets": [
-          "Computerized engine diagnostics",
-          "OBD-II code reading and analysis",
-          "Comprehensive vehicle inspection reports"
+          "Computerized engine analysis",
+          "Transmission and drivetrain testing",
+          "Electrical system diagnostics"
         ],
         "reverse": false,
-        "cardLabel": "Diagnostics",
-        "cardTitle": "Fast & Accurate",
-        "cardBody": "Our advanced scanners pinpoint problems in minutes."
+        "cardLabel": "Fast & Accurate",
+        "cardTitle": "Same-Day Diagnostics",
+        "cardBody": "Most diagnostics completed within an hour so you can get back on the road."
       },
       {
-        "eyebrow": "Brake & Safety",
-        "title": "Complete Brake Repair and Safety Services",
-        "body": "From pad replacements to full brake system overhauls, we ensure your car stops safely every time.",
+        "eyebrow": "Preventive Maintenance",
+        "title": "Keep Your Car Running at Its Best",
+        "body": "Regular maintenance is key to extending the life of your vehicle. We offer comprehensive service plans tailored to your car's needs and your driving habits.",
         "bullets": [
-          "Brake pad and rotor replacement",
-          "Brake fluid flush and inspection",
-          "Anti-lock brake system (ABS) service"
+          "Oil changes and fluid checks",
+          "Tire rotations and alignments",
+          "Brake inspections and replacements"
         ],
         "reverse": true,
-        "cardLabel": "Brakes",
-        "cardTitle": "Stop with Confidence",
-        "cardBody": "Quality parts and expert installation for lasting safety."
+        "cardLabel": "Peace of Mind",
+        "cardTitle": "Vehicle Health Check",
+        "cardBody": "Our 50-point inspection catches small issues before they become big problems."
       }
     ],
     "whyTitle": "Why Choose Advanced Auto Repair?",
     "whyChooseUs": [
       {
-        "title": "Certified Technicians",
-        "description": "Our ASE-certified mechanics have decades of combined experience working on all makes and models."
+        "title": "ASE-Certified Technicians",
+        "description": "Our mechanics are ASE-certified and undergo continuous training to stay current with the latest automotive technology."
       },
       {
-        "title": "Transparent Pricing",
-        "description": "We provide upfront estimates with no hidden fees, so you know exactly what you’re paying for."
+        "title": "Honest & Transparent Pricing",
+        "description": "We provide detailed estimates before any work begins, with no hidden fees or upsells. You approve all repairs upfront."
       },
       {
-        "title": "Fast Turnaround",
-        "description": "Most repairs are completed same-day or within 24 hours, minimizing your downtime."
+        "title": "Quality Parts & Warranties",
+        "description": "We use only OEM or high-quality aftermarket parts and back our work with comprehensive warranties for your peace of mind."
       },
       {
-        "title": "Warranty Protection",
-        "description": "All repairs come with a 12-month/12,000-mile warranty for your peace of mind."
+        "title": "Convenient Dallas Location",
+        "description": "Located in the heart of Dallas with easy access from I-635, we offer shuttle service and loaner vehicles to minimize downtime."
       }
     ],
     "testimonials": [
       {
-        "quote": "They diagnosed my check engine light quickly and the repair was affordable. Will definitely be back!",
-        "author": "Mike T.",
-        "role": "Lake Highlands resident"
+        "quote": "I've been bringing my cars here for over 10 years. They're always honest, fair, and do great work. Highly recommend!",
+        "author": "Mike R.",
+        "role": "Lake Highlands Resident"
       },
       {
-        "quote": "Honest and reliable. They saved me hundreds compared to the dealership. Highly recommend!",
-        "author": "Jessica L.",
-        "role": "White Rock area driver"
+        "quote": "Fast, professional, and they explained everything clearly. My car runs like new again. Will definitely be back.",
+        "author": "Jessica T.",
+        "role": "White Rock Area"
       },
       {
-        "quote": "Great communication and fast service. My car runs like new again. Thank you, Advanced Auto!",
-        "author": "David R.",
-        "role": "Lakewood homeowner"
+        "quote": "Finally found a mechanic I can trust. They fixed my transmission issue quickly and at a reasonable price. Thank you!",
+        "author": "David L.",
+        "role": "Far North Dallas"
       }
     ],
     "cta": {
-      "headline": "Ready for Reliable Auto Repair?",
-      "subheadline": "Call us or schedule online today. We’re here to keep you safely on the road.",
+      "headline": "Ready to Get Your Car Serviced?",
+      "subheadline": "Call us today or schedule an appointment online. We'll get you back on the road safely.",
       "primaryCta": "Schedule Appointment",
       "secondaryCta": "Call (972) 235-5782"
     }
   },
   "servicesPage": {
-    "intro": "From routine maintenance to major repairs, Advanced Auto Repair Services in Dallas, TX offers comprehensive auto care backed by decades of experience."
+    "intro": "Advanced Auto Repair Services offers a full range of automotive repair and maintenance services in Dallas, TX. Our experienced technicians use the latest tools and techniques to keep your vehicle running at its best. Explore our services below."
   },
   "services": [
     {
       "icon": "01",
       "title": "Engine Diagnostics & Repair",
-      "shortDescription": "Accurate diagnostics and expert engine repair to restore performance and reliability.",
-      "longDescription": "Our technicians use advanced scanning tools to pinpoint engine issues, from misfires to sensor failures. We perform everything from minor adjustments to complete engine overhauls, ensuring your vehicle runs smoothly.",
+      "shortDescription": "Comprehensive engine diagnostics and repair to restore performance and reliability.",
+      "longDescription": "From check engine lights to major overhauls, our technicians diagnose and repair all engine issues using advanced equipment. We service all makes and models with precision and care.",
       "benefits": [
-        "Pinpoint accuracy reduces unnecessary repairs",
-        "Restored fuel efficiency and power",
+        "Restored engine performance and fuel efficiency",
         "Extended engine lifespan",
-        "Transparent diagnosis report"
+        "Peace of mind with thorough testing"
       ],
       "process": [
         {
-          "title": "Computer Scan",
-          "description": "We connect your vehicle to our diagnostic system to read trouble codes and live data."
+          "title": "Diagnostic Scan",
+          "description": "We connect your vehicle to our diagnostic system to retrieve error codes and data."
         },
         {
-          "title": "Physical Inspection",
-          "description": "Our mechanic inspects components like spark plugs, belts, and hoses for wear."
+          "title": "In-Depth Inspection",
+          "description": "Our technician performs a visual and mechanical inspection to confirm the issue."
         },
         {
-          "title": "Repair & Test",
-          "description": "We perform the necessary repairs and test-drive your car to confirm the fix."
+          "title": "Repair & Verification",
+          "description": "We complete the repair and test drive to ensure everything is working perfectly."
         }
       ],
       "faqs": [
         {
-          "question": "How long does an engine diagnostic take?",
-          "answer": "Most diagnostics take about 1-2 hours, depending on the complexity of the issue."
+          "question": "How much does an engine diagnostic cost?",
+          "answer": "Our diagnostic fee is $89, which is applied to any repairs we perform."
         },
         {
-          "question": "Will you provide a cost estimate before starting work?",
-          "answer": "Yes, we always provide a detailed estimate upfront before any repairs begin."
+          "question": "How long does an engine repair take?",
+          "answer": "It depends on the issue. Simple repairs can be done same-day, while major work may take a few days. We'll provide a timeline upfront."
         }
       ],
       "slug": "engine-diagnostics-repair"
     },
     {
       "icon": "02",
-      "title": "Brake System Service",
-      "shortDescription": "Complete brake inspections and repairs for safe, reliable stopping power.",
-      "longDescription": "Your brakes are your car’s most important safety feature. We inspect pads, rotors, calipers, and fluid levels, then perform replacements or repairs using high-quality parts to ensure maximum stopping power.",
+      "title": "Brake Service & Repair",
+      "shortDescription": "Expert brake inspections, repairs, and replacements for safe stopping power.",
+      "longDescription": "Your safety is our priority. We inspect pads, rotors, calipers, and fluid to ensure your brakes are responsive and reliable. We use premium parts for long-lasting performance.",
       "benefits": [
-        "Shorter stopping distances",
+        "Improved stopping distance and safety",
         "Reduced brake noise and vibration",
-        "Prevents costly rotor damage",
-        "Peace of mind on the road"
+        "Warranty on parts and labor"
       ],
       "process": [
         {
           "title": "Brake Inspection",
-          "description": "We measure pad thickness, rotor condition, and fluid quality."
+          "description": "We check pad thickness, rotor condition, and fluid levels."
         },
         {
           "title": "Component Replacement",
-          "description": "Worn pads and rotors are replaced with premium-grade parts."
+          "description": "We replace worn parts with high-quality components."
         },
         {
           "title": "System Test",
-          "description": "We test the brakes on the road to ensure proper function and pedal feel."
+          "description": "We test the brakes on the road to ensure optimal performance."
         }
       ],
       "faqs": [
         {
           "question": "How often should I replace my brake pads?",
-          "answer": "Typically every 30,000 to 70,000 miles, depending on driving habits and pad material."
+          "answer": "Typically every 30,000-70,000 miles depending on driving habits. We'll check them during your visit."
         },
         {
-          "question": "Do you use OEM or aftermarket parts?",
-          "answer": "We use quality aftermarket parts that meet or exceed OEM specifications, backed by a warranty."
+          "question": "Do you offer brake service on all vehicle makes?",
+          "answer": "Yes, we service all domestic and import vehicles."
         }
       ],
-      "slug": "brake-system-service"
+      "slug": "brake-service-repair"
     },
     {
       "icon": "03",
-      "title": "Oil Change & Fluid Services",
-      "shortDescription": "Keep your engine lubricated and clean with our professional oil change and fluid checks.",
-      "longDescription": "Regular oil changes are vital for engine health. We drain old oil, replace the filter, and refill with the correct grade of oil. We also top off other essential fluids like coolant, transmission fluid, and brake fluid.",
+      "title": "Oil Change & Preventive Maintenance",
+      "shortDescription": "Keep your engine healthy with regular oil changes and fluid checks.",
+      "longDescription": "Regular oil changes are the most important maintenance you can do for your car. We use quality oils and filters, and include a complimentary multi-point inspection with every service.",
       "benefits": [
-        "Protects engine from wear",
-        "Improves fuel economy",
-        "Extends engine life",
-        "Complimentary fluid top-off"
+        "Extended engine life",
+        "Better fuel economy",
+        "Early detection of potential issues"
       ],
       "process": [
         {
-          "title": "Drain & Filter",
-          "description": "We drain the old oil and replace the oil filter."
+          "title": "Drain Old Oil",
+          "description": "We safely drain the old oil and dispose of it properly."
         },
         {
-          "title": "Refill",
-          "description": "Fresh oil is added to the manufacturer’s specification."
+          "title": "Replace Filter & Refill",
+          "description": "We install a new filter and fill with the recommended oil grade."
         },
         {
-          "title": "Fluid Check",
-          "description": "We inspect and top off all other key fluids at no extra charge."
+          "title": "Multi-Point Inspection",
+          "description": "We check belts, hoses, fluids, tires, and lights to keep you safe."
         }
       ],
       "faqs": [
         {
           "question": "What type of oil do you use?",
-          "answer": "We use high-quality conventional, synthetic blend, or full synthetic oil based on your vehicle’s requirements."
+          "answer": "We use conventional, synthetic blend, and full synthetic oils to meet your manufacturer's specifications."
         },
         {
-          "question": "How often should I get an oil change?",
-          "answer": "Most vehicles need an oil change every 5,000 to 7,500 miles, but check your owner’s manual for specifics."
+          "question": "How long does an oil change take?",
+          "answer": "Most oil changes are completed in under 30 minutes."
         }
       ],
-      "slug": "oil-change-fluid-services"
+      "slug": "oil-change-preventive-maintenance"
     },
     {
       "icon": "04",
       "title": "AC & Heating System Repair",
-      "shortDescription": "Keep your cabin comfortable with expert air conditioning and heating system service.",
-      "longDescription": "A malfunctioning AC or heater can make driving miserable. We diagnose and repair issues with compressors, condensers, evaporators, and blower motors, restoring comfort to your vehicle’s interior.",
+      "shortDescription": "Keep your cabin comfortable with expert AC and heating service.",
+      "longDescription": "Whether your AC blows warm air or your heater isn't working, we diagnose and repair all climate control systems. We handle refrigerant recharge, compressor replacement, and more.",
       "benefits": [
-        "Quick relief from extreme temperatures",
+        "Comfortable driving year-round",
         "Improved air quality",
-        "Prevents system damage",
-        "Eco-friendly refrigerant handling"
+        "Efficient system operation"
       ],
       "process": [
         {
           "title": "System Inspection",
-          "description": "We check refrigerant levels, compressor function, and airflow."
+          "description": "We check refrigerant levels, compressor function, and electrical components."
         },
         {
-          "title": "Leak Detection",
-          "description": "Using UV dye and electronic detectors, we find and seal leaks."
+          "title": "Diagnostic Test",
+          "description": "We use specialized tools to identify leaks or failures."
         },
         {
-          "title": "Recharge & Test",
-          "description": "We recharge the system with refrigerant and test cooling and heating performance."
+          "title": "Repair & Recharge",
+          "description": "We fix the issue and recharge the system to manufacturer specs."
         }
       ],
       "faqs": [
         {
           "question": "Why is my AC blowing warm air?",
-          "answer": "Common causes include low refrigerant, a faulty compressor, or a clogged condenser. We’ll diagnose exactly."
+          "answer": "Common causes include low refrigerant, a faulty compressor, or a leak. We'll diagnose and fix it."
         },
         {
-          "question": "Do you repair heaters as well?",
-          "answer": "Yes, we service both AC and heating systems, including heater cores and blower motors."
+          "question": "Do you repair both AC and heating?",
+          "answer": "Yes, we service both your air conditioning and heating systems."
         }
       ],
       "slug": "ac-heating-system-repair"
     }
   ],
   "about": {
-    "headline": "Dallas’s Trusted Auto Repair Team",
-    "mission": "To provide honest, high-quality auto repair services that keep our community safe and moving forward.",
+    "headline": "Your Trusted Auto Repair Partner in Dallas Since 1995",
+    "mission": "Our mission is to provide honest, high-quality auto repair services that keep our customers safe and their vehicles running reliably. We believe in transparency, integrity, and building lasting relationships with every client.",
     "story": [
-      "Advanced Auto Repair Services has been serving the Dallas community for over 25 years. Founded by master technician John Ramirez, our shop started as a small two-bay garage and has grown into a full-service facility thanks to our commitment to quality and integrity. We pride ourselves on treating every customer like a neighbor, offering transparent advice and fair pricing.",
-      "Today, our team of ASE-certified technicians handles everything from routine maintenance to complex engine repairs. We invest in the latest diagnostic equipment and ongoing training to ensure we can service modern vehicles effectively. Whether you drive a sedan, SUV, or truck, you can trust us to get the job done right the first time."
+      "Advanced Auto Repair Services was founded in 1995 by master mechanic John Smith with a simple vision: create a repair shop where customers are treated like family. Starting with just two bays in a small garage, John's commitment to quality work and fair prices quickly earned a loyal following. Over the years, we've grown to a full-service facility serving thousands of Dallas drivers.",
+      "Today, our team of ASE-certified technicians continues John's legacy of excellence. We invest in the latest diagnostic equipment and ongoing training to ensure we can handle everything from routine maintenance to complex repairs. We're proud to be a trusted part of the Dallas community and look forward to serving you."
     ],
     "highlight": {
-      "stat": "25+",
-      "label": "Years Serving Dallas"
+      "stat": "28+",
+      "label": "Years of Service"
     },
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We never recommend unnecessary repairs and always explain your options."
+        "description": "We always tell you what your car needs and what it doesn't. No upsells, no surprises."
       },
       {
         "title": "Quality",
-        "description": "We use top-tier parts and follow manufacturer specifications for every repair."
+        "description": "We use top-tier parts and follow manufacturer specifications to ensure lasting repairs."
       },
       {
-        "title": "Community",
-        "description": "We support local events and strive to be a positive force in Dallas."
+        "title": "Customer Focus",
+        "description": "Your satisfaction is our priority. We communicate clearly and respect your time."
       },
       {
-        "title": "Reliability",
-        "description": "We stand behind our work with a solid warranty and friendly service."
+        "title": "Expertise",
+        "description": "Our team stays ahead of the curve with continuous training and advanced tools."
       }
     ]
   },
   "contact": {
-    "headline": "Get in Touch with Advanced Auto Repair",
-    "subheadline": "Call us or stop by our Dallas shop. We’re ready to help with your auto repair needs.",
+    "headline": "Get in Touch",
+    "subheadline": "Ready to schedule your appointment? Call us or fill out the form below. We'll get back to you quickly.",
     "primaryCta": "Call (972) 235-5782",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
       "Lake Highlands",
       "White Rock",
-      "Lakewood",
-      "Highland Park",
-      "University Park"
+      "Far North Dallas",
+      "Richardson",
+      "Garland"
     ]
   },
   "social_proof": {
-    "rating": 4.9,
+    "rating": "",
     "reviews": null
   },
   "meta": {
